@@ -14,9 +14,9 @@ Creation of Personal Access Token and use it to autheticate codebuild job
 And store terraform state file in an S3 Bucket and create a codebuild job
 
 To Clone a Private Repository on your computer, You'll need the instructions below
-        Install Git on your computer
-        Create a Key pair on your computer
-        Add the Public SSH Key to Guthub
-        Clone your repository
+                Install Git on your computer
+                Create a Key pair on your computer
+                Add the Public SSH Key to Guthub
+                Clone your repository
 
 Here is detailed walkthrough of this project 
