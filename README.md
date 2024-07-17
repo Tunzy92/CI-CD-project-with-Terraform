@@ -1,6 +1,6 @@
 # CI-CD-project-with-Terraform
 Repository for terraform projects
-This Project is to create a codebuild job that will automatically apply your terraform scripts whenever you commit a change into your github repository.
+In this Project, you're to learn how to create a codebuild job that will automatically apply your terraform scripts whenever you commit a change into your github repository.
 
 ![flow](https://github.com/user-attachments/assets/c8da8af2-d492-452a-8375-f27bbe16059f)
 
@@ -18,4 +18,5 @@ To Clone a Private Repository on your computer, You'll need the instructions bel
         Create a Key pair on your computer
         Add the Public SSH Key to Guthub
         Clone your repository
-        
+
+Here is detailed walkthrough of this project 
