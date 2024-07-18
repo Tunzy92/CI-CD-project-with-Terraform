@@ -17,7 +17,7 @@ To Clone a Private Repository on your computer, You'll need the instructions bel
 
     Install Git on your computer
     Create a Key pair on your computer
-    Add the Public SSH Key to Guthub
+    Add the Public SSH Key to Github
     Clone your repository
     
 Detailed walkthrough of this project here
