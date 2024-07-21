@@ -20,4 +20,4 @@ To Clone a Private Repository on your computer, You'll need the instructions bel
     Add the Public SSH Key to Github
     Clone your repository
     
-Detailed walkthrough of this project here
+Detailed walkthrough and implementations of this project here: https://medium.com/@onabanjo.temitayo3/ci-cd-project-for-beginner-automatically-apply-terraform-with-aws-codebuild-a4884d6dd9b0
